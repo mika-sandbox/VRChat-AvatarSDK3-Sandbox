@@ -8,3 +8,4 @@ Experimental Unity Project that testing VRChat Avatar 3.0.
 
 - Unity 2018.4
 - VRChat that supports Avatar 3.0 (currently in beta on Steam)
+  - SDK Version : `VRCSDK-AVATAR-2020.07.09.15.19_Public`
