@@ -61,6 +61,7 @@ crashlytics-build.properties
 # Imported Assets
 [Aa]ssets/Avatars/
 [Aa]ssets/Booth/
+[Aa]ssets/Scenes/
 [Aa]ssets/Texture2DArrays/
 [Aa]ssets/Udon/
 [Aa]ssets/Vendors/
